@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 356 110">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #99c9d1;
+      }
+
+      .cls-2 {
+        fill: #032846;
+      }
+
+      .cls-3 {
+        font-size: 24px;
+        fill: #fff;
+        font-family: Georgia-Bold, Georgia;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <title>signupbox</title>
+  <g id="yderste_box" data-name="yderste box">
+    <rect class="cls-1" width="356" height="110" rx="52.89" ry="52.89"/>
+  </g>
+  <g id="text">
+    <g>
+      <rect class="cls-2" x="15" y="12.44" width="326" height="85.56" rx="42.78" ry="42.78"/>
+      <text class="cls-3" transform="translate(104.4 60.28)">Ring mig op</text>
+    </g>
+  </g>
+</svg>
